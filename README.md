@@ -6,4 +6,4 @@ I added the nessacery alt's to describe the imgs.
 The tilte was also changed to the website purpose.
 Here are the links to the code:
 Website: https://jimmysolis.github.io/HORISEON/ 
-Repository: github.com/JimmySolis/HORISEON
+Repository:https://github.com/JimmySolis/HORISEON
