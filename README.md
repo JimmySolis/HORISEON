@@ -16,4 +16,5 @@ Website: https://jimmysolis.github.io/HORISEON/
 
 Repository:https://github.com/JimmySolis/HORISEON
 
-![Uploading Screen Shot 2022-05-02 <img width="603" alt="Screen Shot 2022-05-02 at 4 32 33 PM" src="https://user-images.githubusercontent.com/103652380/166323071-5fd4ac73-c6b3-4fb7-b1c0-00e438303a0a.png">
+<img width="605" alt="Screen Shot 2022-05-02 at 4 32 16 PM" src="https://user-images.githubusercontent.com/103652380/166323235-68941f85-066e-4958-a8c8-dba3d594b7aa.png">
+<img width="603" alt="Screen Shot 2022-05-02 at 4 32 33 PM" src="https://user-images.githubusercontent.com/103652380/166323255-37fd2893-b424-4600-893f-a316dfb9ac33.png">
