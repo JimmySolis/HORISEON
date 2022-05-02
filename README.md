@@ -5,3 +5,5 @@ I added a header,aside,nav's,and footer to have a structured code.
 I added the nessacery alt's to describe the imgs.
 The tilte was also changed to the website purpose.
 Here are the links to the code:
+Website: https://jimmysolis.github.io/HORISEON/ 
+Repository: 
