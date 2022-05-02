@@ -7,4 +7,4 @@ The tilte was also changed to the website purpose.
 Here are the links to the code:
 Website: https://jimmysolis.github.io/HORISEON/ 
 Repository:https://github.com/JimmySolis/HORISEON
-[HERISEON.mp4.zip](https://github.com/JimmySolis/HORISEON/files/8605805/HERISEON.mp4.zip)
+
